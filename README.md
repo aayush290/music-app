@@ -1,5 +1,6 @@
-# Flutter Desktop/Web Spotify UI Tutorial
+MUSIC APP using Flutter
 
-[YouTube Tutorial](https://youtu.be/HJ1AlSrgZVQ)
-
-[Flutter Courses](https://launchclub.io)
+Made by:
+Atharva Hinge
+Soumya Selvan
+Muskan Rauther
